@@ -1,0 +1,26 @@
+[
+  {
+    "fullName": "MIRIYALA.BINDU SRAVANTHI",
+    "email": "bindu123@gmail.com",
+    "phone": "1234567890",
+    "address": "2-11B, chebrolu mandalam, gundavaram Chebrolu Guntur Andhra Pradesh India, 522212",
+    "location": "Delhi",
+    "place": "Red Fort",
+    "accommodationType": "Hotel",
+    "priceRange": "Low",
+    "checkin": "2024-09-30",
+    "checkout": "2024-10-03",
+    "persons": 2,
+    "roomType": "Family",
+    "payment": "Credit Card",
+    "additionalServices": [
+      "Transport",
+      "Meals"
+    ],
+    "specialNeeds": true,
+    "hotelName": "Heritage Red",
+    "hotelAddress": "Lal Qila, Delhi",
+    "agentName": "Angela Cooper",
+    "agentId": "AGT1049"
+  }
+]
